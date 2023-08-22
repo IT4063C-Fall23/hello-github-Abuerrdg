@@ -25,20 +25,21 @@ Make sure you follow the instructions carefully. You will be asked to complete a
 ---------------
 ## 💭 Reflection and Self Assessment
 
-**I learned:** (repeat as needed)
+**I learned:** I learned how to commit and push changes made to a file.
 - .
 
-**I struggled with:** (repeat as needed)
+**I struggled with:** Figuring out how to commit changes. As you will see, I had originally tried to commit my changes using code within the text. I then tried to delete them and do it properly. In the end I was able to successfully figure out how and when to commit. Please ignore the first 2 commits, and they were mistakes. 
 - .
 
-**I need the instructor to help me with:** (repeat as needed)
+**I need the instructor to help me with:** If you could. please look at my work and let me know if I did something wrong. This is the very first time I have done something like this.
 - .
 
-**💯 Self Grade:** For this assignment, based on my work and my reflections I should get [ ] out of 20.
+**💯 Self Grade:** For this assignment, based on my work and my reflections I should get [20] out of 20.
 
 ------------------
 ## 📚 References and Citations
-**I used the following links, books, and other resources in my work:** (repeat as needed)
+**I used the following links, books, and other resources in my work:** I used the following youtube video to help me commit my changes. https://www.bing.com/videos/search?q=how+to+commit+and+push+in+visual+studio+code&docid=603535689302507506&mid=AB23DC7A44D2119793FCAB23DC7A44D2119793FC&view=detail&FORM=VIRE 
+I also used the git cheatsheat you provided for us.
 - .
   
 **I received help from the following people:** (repeat as needed)
